@@ -35,7 +35,7 @@ public class Client {
                     break;
                 case 2:
                     choix();
-                    break;
+                    break;//
                 case 3:
                     reponse = true;
                     break;
